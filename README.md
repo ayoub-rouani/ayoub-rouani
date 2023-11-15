@@ -1,17 +1,8 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/ayoub_rouani">
-  <img align="left" alt="Ayoub Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ayoub-rouani-64b914217/">
-  <img align="left" alt="Ayoub's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Hey there
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-  
-- 💼 any freelance work? do reach, [email](rouaniayoub1996@gmail.com) :)
+- 💼 any freelance work? do reach, [email](rouaniayoub1996@gmail.com)
 - 💬 ask me about anything, i am happy to help;
+- My [linkedin](https://www.linkedin.com/in/ayoub-rouani-64b914217/") profile.
 
 **languages and tools:**  
 
